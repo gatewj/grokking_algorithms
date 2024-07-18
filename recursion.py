@@ -2,7 +2,6 @@
 """
 Created on Wed Apr 27 07:24:04 2022
 
-@author: Jambo
 """
 def countdown(i):
     print(i)
