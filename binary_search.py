@@ -2,7 +2,6 @@
 """
 Created on Mon Apr 25 18:23:15 2022
 
-@author: Jambo
 """
 def binary_search(list1, item):
     low = 0
