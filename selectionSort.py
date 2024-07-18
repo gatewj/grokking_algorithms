@@ -2,7 +2,6 @@
 """
 Created on Tue Apr 26 20:32:49 2022
 
-@author: Jambo
 """
 def findSmallest(arr):
     smallest = arr[0]
