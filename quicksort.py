@@ -2,7 +2,6 @@
 """
 Created on Thu Apr 28 20:53:53 2022
 
-@author: Jambo
 """
 def quicksort(arr):
     if len(arr) < 2:
