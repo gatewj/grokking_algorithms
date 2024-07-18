@@ -2,7 +2,6 @@
 """
 Created on Wed Apr 27 20:37:28 2022
 
-@author: Jambo
 """
 def sum(arr):
     total = 0
